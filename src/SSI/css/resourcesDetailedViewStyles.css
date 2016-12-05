@@ -1,0 +1,414 @@
+#DetailedResourcesContainer{
+    height: 95%;
+    width: 96%;
+    margin-top: 15px;
+    margin-left: 25px;
+    border-radius: 10px;
+    border: 3px solid white;
+    background-color: lightgray;
+    position: relative;
+}
+
+
+#ProjectInformation{
+    position: absolute;
+    margin-left: 20px;
+    width: 630px;
+    height: 260px;
+    margin-top: 80px;
+}
+
+#detailedviewButtonWrapper{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 650px;
+    width: 600px;
+}
+
+#DetailedReportHeader{
+    position: absolute;
+    margin-left: 120px;
+    font-family: Michroma;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin-left: 25px;
+}
+
+
+
+
+.box{
+    position: absolute;
+    background-color: white;
+    border: solid 3px #b7b4b4;
+    border-radius: 10px;
+}
+
+.boxheader{
+    background: -moz-linear-gradient(top, #457dbc 0%, #a0c7e5 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #457dbc 0%,#a0c7e5 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #457dbc 0%,#a0c7e5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    position: absolute;
+    width: 100%;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    text-align: left;
+    font-family: Michroma;
+    font-size: 15px;
+    height: 25px;
+}
+
+.boxheader p{
+    margin-top: 0px;
+    padding-left: 5px;
+}
+p{
+    font-family: Michroma;
+}
+
+
+
+
+
+
+
+.PIlabels{
+    position: absolute;
+    font-size: 10px;
+}
+
+
+
+
+#PITitleLabel{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+#PIDescription{
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+#PIGoals {
+    margin-top: 120px;
+    margin-left: 10px;
+}
+
+#PIDocType {
+    margin-top: 160px;
+    margin-left: 10px;
+}
+
+#PIWebsite {
+    margin-top: 200px;
+    margin-left: 10px;
+}
+
+
+
+#PIStartDate{
+    margin-top: 40px;
+    margin-left: 280px;
+}
+
+#PIEndDate{
+    margin-top: 40px;
+    margin-left: 450px;
+}
+
+#PIKeywords{
+    margin-top: 80px;
+    margin-left: 370px;
+}
+
+#PIKeywords2{
+    margin-top: 80px;
+    margin-left: 370px;
+}
+
+#PIObjective{
+    margin-top: 120px;
+    margin-left: 300px;
+}
+
+
+.PDVText{
+    width: 150px;
+    position: absolute;
+}
+
+#PITitleText{
+    margin-top: 40px;
+    margin-left: 120px;
+}
+
+#PIDescText{
+    margin-top: 80px;
+    margin-left: 120px;
+    width: 230px;
+}
+
+#StartDateText{
+    margin-top: 38px;
+    margin-left: 370px;
+    width: 70px;
+}
+#EndDateText{
+    margin-top: 38px;
+    margin-left: 520px;
+    width: 70px;
+}
+
+#PIGoalsText{
+    margin-top: 120px;
+    margin-left: 120px;
+}
+
+#PIKeywordsText{
+    margin-top: 78px;
+    margin-left: 445px;
+    width: 130px;
+}
+
+#PIKeywordsText2{
+    margin-top: 78px;
+    margin-left: 445px;
+    width: 130px;
+}
+
+#PIClassification{
+    margin-top: 158px;
+    margin-left: 280px;
+    width: 280px;
+}
+#PIClassificationLabel{
+    margin-top: 158px;
+    margin-left: 10px;
+}
+
+
+#documentTypeSelector{
+    margin-top: 159px;
+    margin-left: 130px;
+    width: 140px;    
+}
+
+#documentTypeAttachment{
+    margin-top: 157px;
+    margin-left: 282px;
+    width: 294px;    
+}
+
+#ObjectiveText{
+    margin-top: 117px;
+    margin-left: 380px;
+    width: 195px;    
+}
+
+#WebsiteText{
+    margin-top: 196px;
+    margin-left: 80px;
+    width: 496px;    
+}
+
+.plusIcon{
+    position: absolute;
+}
+
+#PlusIcon1{
+    margin-top: 79px;
+    margin-left: 580px;
+}
+#PlusIcon2{
+    margin-top: 117px;
+    margin-left: 580px;
+}
+
+#PlusIcon3{
+    margin-top: 158px;
+    margin-left: 580px;
+}
+
+#PlusIcon4{
+    margin-top: 196px;
+    margin-left: 580px;
+}
+
+#PlusIcon5{
+    margin-top: 120px;
+    margin-left: 273px;
+}
+#PlusIcon8{
+    margin-top: 50px;
+    margin-left: 550px;
+}
+
+
+#datepicker-2{
+    margin-top: 40px;
+    margin-left: 173px;
+}
+
+#typeSelector{
+    margin-left: 150px;
+    margin-top: 35px;
+}
+select{
+    position: absolute;
+    font-size: 12px;
+    width: 250px;
+}
+
+
+#fundedQuestion{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 25px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#YesRadio{
+    position: absolute;
+    margin-top: 63px;
+    margin-left: 220px;
+}
+
+#NoRadio{
+    position: absolute;
+    margin-top: 63px;
+    margin-left: 290px;
+}
+
+
+
+#ProjectMembershipBoxWrapper{
+    position: relative;
+    width: 500px;
+    height: 500px;
+}
+
+
+#ProjectMembershipBox{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 360px;
+    width: 630px;
+    height: 320px;
+}
+
+
+#ProjectMembershipBox2{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 360px;
+    width: 630px;
+    height: 120px;
+}
+
+
+#membershipButton{
+    margin-top: 260;
+    margin-left: 400;
+}
+
+
+#LinkInitiativeButton{
+    position: absolute;
+    margin-top: 490;
+    margin-left: 450;
+}
+#InitiativeButton{
+    position: absolute;
+    margin-top: 490;
+    margin-left: 260;
+}
+
+
+
+/*-----------TABLE------------*/
+
+detailedViewTable{
+    text-align: left;
+    padding-left: 10px;
+}
+#membershipTable{
+    margin-top: 50px; 
+    margin-left: 50px;
+
+}
+
+table th{
+    background: #ededed;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ededed), to(#ebebeb));
+    background: -moz-linear-gradient(top,  #ededed,  #ebebeb);
+}
+
+table tr {
+    text-align: center;
+    padding-left:10px;
+}
+
+table{
+    font-family: Michroma;
+    color:#666;
+    font-size: 12px;
+    text-shadow: 1px 1px 0px #fff;
+    background:#eaebec;
+    border:#ccc 1px solid; position: absolute;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+
+    -moz-box-shadow: 0 1px 2px #d1d1d1;
+    -webkit-box-shadow: 0 1px 2px #d1d1d1;
+    box-shadow: 0 1px 2px #d1d1d1;
+}
+table a:hover {
+    color: #bd5a35;
+    text-decoration:underline;
+}
+
+#ProjectMembershipBox select{
+    position: static;
+    width: 140px;
+}
+
+
+/*-----------TABLE------------*/
+
+#InitiativesAssociatedWithProjectBox{
+    position: absolute;
+    margin-left: 700px;
+    height: 540px;
+    margin-top: 80px;
+    width: 720px;
+}
+#InitiativesTable{
+    margin-top: 80px;
+    margin-left: 35px;
+
+}
+#InitiativesTable th{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+#InitiativesTable td{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#requiredlabel{
+    margin-top: 686px;
+    margin-left: 25px;
+    font-size: 12px;
+}
+
+#classificationSelector{
+    margin-left: 115px;
+    margin-top: 158px;
+    width: 150px;
+}

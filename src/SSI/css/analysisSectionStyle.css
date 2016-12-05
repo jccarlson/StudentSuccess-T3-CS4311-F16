@@ -1,0 +1,184 @@
+#AnalysisContainer{
+    position: absolute;
+    background-color: #dddddd;
+    width: 97%;
+    height: 96%;
+    margin-top: 12px;
+    margin-left: 22px;
+    border-radius: 10px;
+
+}
+#analysisHeader{
+    position: absolute;
+    margin-left: 120px;
+    font-family: Michroma;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.box{
+    position: absolute;
+    background-color: white;
+    border: solid 3px #b7b4b4;
+    border-radius: 10px;
+}
+
+.boxheader{
+    background: -moz-linear-gradient(top, #457dbc 0%, #a0c7e5 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #457dbc 0%,#a0c7e5 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #457dbc 0%,#a0c7e5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    position: absolute;
+    width: 100%;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    text-align: left;
+    font-family: Michroma;
+    font-size: 15px;
+    height: 25px;
+}
+
+.boxheader p{
+    margin-top: 0px;
+    padding-left: 5px;
+}
+p{
+    font-family: Michroma;
+}
+#QuerryBox{
+    width: 500px;
+    height: 70px;
+    margin-left: 28px;
+    margin-top: 80px;
+}
+
+#typeSelector{
+    margin-left: 150px;
+    margin-top: 35px;
+}
+select{
+    position: absolute;
+    font-size: 18px;
+    width: 250px;
+}
+.analysisSelectLabel{
+    position: absolute;
+    width: 150px;
+    margin-left: 5px;
+    margin-top: 35px;
+}
+
+
+#FilterBox{
+    width: 500px;
+    height: 320px;
+    margin-left: 28px;
+    margin-top: 170px;
+}
+
+.wrapper{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-color: none;
+}
+
+.wrapper P{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.wrapper select{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 200px;
+}
+
+.wrapper input{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 200px;
+}
+
+#wrapper1{
+    margin-top: 30px;
+}
+
+#wrapper2{
+    margin-top: 0px;
+}
+
+#wrapper3{
+    margin-top: 0px;
+}
+
+#yes{
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 10px;
+
+}
+
+#no{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 10px;
+
+}
+#yesR{
+    position: absolute;
+    margin-left: 220px;
+}
+#noR{
+    position: absolute;
+    margin-left: 280px;
+}
+
+
+#wrapper4{
+    margin-top: 0px;
+}
+
+#wrapper5{
+    margin-top: 0px;
+}
+
+#wrapper6{
+    margin-top: 18px;
+}
+
+#wrapper7{
+    margin-top: 10px;
+}
+
+#noGradR{
+    margin-left: 280px;
+}
+
+
+
+#yesnoWrapper{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#ResultView{
+    margin-left: 580px;
+    width: 830px;
+    height: 530px;
+    margin-top: 80px;
+}
+
+#buttonWrapper{
+    margin-top: 650px;
+}
+
+#RestrictionBox{
+    width: 500px;
+    height: 200px;
+    margin-left: 28px;
+    margin-top: 500px;
+}
+

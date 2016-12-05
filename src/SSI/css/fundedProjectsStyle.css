@@ -1,0 +1,32 @@
+
+#fundedListContainer{
+    margin-top: 50px;
+    margin-left: 70px;
+    height: 600px;
+    width: 1300px;
+}
+
+#searchFunded{
+    margin-left: 960px;
+}
+
+#resourceTable{
+    position: relative;
+    height: 400px;
+    width: 850px;
+    margin-left:230px;
+    margin-top: 25px;
+    overflow: scroll;
+}
+
+#fundedProjectsbuttonWrapper{
+    position: absolute;
+    width: 300px;
+    margin-left: 1050px;
+    margin-top: 80px
+}
+#fundedListtableWrapper{
+     overflow-y: auto;
+     height: 300px;
+}
+
