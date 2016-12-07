@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+
+
+#body{
+	margin: 0;
+	height: 800px;
+	text-align: center;
+	font-family: Michroma;
+	background: -moz-linear-gradient(top, rgba(0,33,71,1) 0%, rgba(117,125,158,1) 50%);
+}
+
+.centered{
+	text-align: center;
+}
+
+#loginWrapper{
+	text-align: center;
+	height: 500px;
+	color: White;
+	margin-top: 150px;
+}
+
+#loginBox{
+	display: inline-block;
+}
+
+#loginTitle{
+	font-size: 30px;
+}
+
+.loginInput{
+	font-size: 25px;
+	width: 350px;;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+#loginButton{
+	font-size: 20px;
+	width: 250px;
+}
+
+footer{
+
+bottom:0;
+color: white;
+}

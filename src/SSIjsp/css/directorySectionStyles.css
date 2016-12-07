@@ -1,0 +1,51 @@
+#directoryContainer{
+    height: 95%;
+    width: 96%;
+    margin-top: 15px;
+    margin-left: 25px;
+    border-radius: 10px;
+    border: 3px solid white;
+    background-color: lightgray;
+    position: relative;
+}
+
+#dirHeader {
+    text-align: center;
+    font-family: Michroma;
+    font-size: 25px;
+    color: black;
+}
+
+#searchByLabelWrapper{
+   position: absolute;
+}
+
+#searchByLabelWrapper li{
+    list-style: none;
+    font-family: Michroma;
+    font-size: 15px;
+    margin-top: 8px;
+    color: black;   
+}
+
+#dropdownWrapper{
+    position: absolute;
+   margin-left: 270px;
+   margin-top: 9.5px;
+}
+
+#dropdownWrapper select{
+    width: 200px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#DonwloadLabelWapper{
+    margin-top: 530px;
+    margin-left: 20px;
+    position: absolute;
+    font-family: Michroma;
+    font-size: 12px;
+    color: black;
+}
+
